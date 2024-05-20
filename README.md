@@ -11,7 +11,7 @@ Use as seguintes teclas para controlar o Turtlebot3:
     'd': Vira para a direita
     'espaço': Para o robô
     'Ctrl+C': Sai do programa
-![funcionamento]("/home/lidia/Mod6Pond2/assets/funcionamento.gif)
+![Demonstração do funcionamento](./assets/funcionamento.gif)
 
 ## 💻 Como executar o projeto:
 ### Pré-requisitos:
