@@ -1,0 +1,21 @@
+[0.701s] Invoking command in '/home/lidia/Mod6Pond2/ros2_ws/src/turtlebot3_teleop': PYTHONPATH=/home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/prefix_override:/home/lidia/Mod6Pond2/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_teleop build --build-base /home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/build install --record /home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
+[0.952s] running egg_info
+[0.952s] writing ../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/PKG-INFO
+[0.952s] writing dependency_links to ../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/dependency_links.txt
+[0.952s] writing entry points to ../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/entry_points.txt
+[0.952s] writing requirements to ../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/requires.txt
+[0.952s] writing top-level names to ../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/top_level.txt
+[0.954s] reading manifest file '../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[0.954s] writing manifest file '../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[0.954s] running build
+[0.954s] running build_py
+[0.955s] running install
+[0.955s] running install_lib
+[0.956s] running install_egg_info
+[0.957s] removing '/home/lidia/Mod6Pond2/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-0.0.0-py3.10.egg-info' (and everything under it)
+[0.957s] Copying ../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info to /home/lidia/Mod6Pond2/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-0.0.0-py3.10.egg-info
+[0.957s] running install_scripts
+[0.980s] Installing teleop_node script to /home/lidia/Mod6Pond2/ros2_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[0.980s] Installing turtlebot_controller script to /home/lidia/Mod6Pond2/ros2_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[0.980s] writing list of installed files to '/home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/install.log'
+[1.023s] Invoked command in '/home/lidia/Mod6Pond2/ros2_ws/src/turtlebot3_teleop' returned '0': PYTHONPATH=/home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/prefix_override:/home/lidia/Mod6Pond2/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_teleop build --build-base /home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/build install --record /home/lidia/Mod6Pond2/ros2_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
