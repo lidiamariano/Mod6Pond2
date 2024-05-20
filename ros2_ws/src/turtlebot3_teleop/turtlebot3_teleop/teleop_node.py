@@ -16,15 +16,15 @@ class TeleopNode(Node):
         self.print_instructions()
 
     def print_instructions(self):
-        print("Use the following keys to control the Turtlebot3:")
-        print("  - 'w': Move forward")
-        print("  - 's': Move backward")
-        print("  - 'a': Turn left")
-        print("  - 'd': Turn right")
-        print("  - ' ': Stop")
-        print("  - 'Ctrl+C': Quit")
-        print()  # Adiciona uma linha em branco para separar as instruções das mensagens
-
+        print("Use os seguintes comandos para movimentar o Turtlebot3:")
+        print("  - 'w': Move para frente")
+        print("  - 's': Move para trás")
+        print("  - 'a': Gira para esquerda")
+        print("  - 'd': Gira para direita")
+        print("  - ' ': Para")
+        print("  - 'Ctrl+C': Sair")
+        print()  
+        
     def get_key(self):
         tty.setraw(sys.stdin.fileno())
         select.select([sys.stdin], [], [], 0)
