@@ -15,10 +15,10 @@ Use as seguintes teclas para controlar o Turtlebot3:
 
 ## 💻 Como executar o projeto:
 ### Pré-requisitos:
-- Ubuntu 20.04
-- ROS 2 Foxy Fitzroy
+- Ubuntu 
+- ROS 2 
 - Webots
-- Python 3.8 ou superior
+- Python
 ### Instalação
 1. `git clone https://github.com/lidiamariano/Mod6Pond2.git`
 2. `cd ros_ws`
